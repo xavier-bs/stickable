@@ -23,7 +23,7 @@ Very simple.
 
 ***
 
-No licence.
+GNU General Public License v3.0
 
 _Xavier Birnie-Scott_
 [murviel-info.com](http://murviel-info.com)
